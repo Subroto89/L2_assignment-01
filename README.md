@@ -1,4 +1,4 @@
-**Blog 1: What are some differences between interfaces and types in TypeScript?**
+**Blog 1: What are some differences between interfaces and types in TypeScript?**<br/>
 **TypeScript** এ অবজেক্ট এর কাঠামো সংজ্ঞায়িত করার জন্য **Interfaces Type Aliases** ব্যবহার করা হয়।
 এই দুটির কাজ একই রকম হলেও বেশ কিছু বিষয়ে একটি আরেকটির থেকে আলাদা।
 
