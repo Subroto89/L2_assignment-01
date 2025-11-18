@@ -22,12 +22,12 @@
 নিচের টাইপটি আইডি হিসেবে number অথবা string গ্রহণ করতে পারে।
 type ID = string | number;
 
-function printID(id: ID) {
-  if (typeof id === 'string') {
-    console.log(`Your ID (String): ${id.toUpperCase()}`);
-  } else {
-    console.log(`Your ID (Number): ${id.toFixed(2)}`);
-  }
+function printID(id: ID) {<br/>
+  if (typeof id === 'string') {<br/>
+    console.log(`Your ID (String): ${id.toUpperCase()}`);<br/>
+  } else {<br/>
+    console.log(`Your ID (Number): ${id.toFixed(2)}`);<br/>
+  }<br/>
 }
 
 **Intersection Type:**
