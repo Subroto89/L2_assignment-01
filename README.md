@@ -1,4 +1,4 @@
-**Blog 1: What are some differences between interfaces and types in TypeScript?**<br/>
+**Blog 1: What are some differences between interfaces and types in TypeScript?**<br/><br/>
 **TypeScript** এ অবজেক্ট এর কাঠামো সংজ্ঞায়িত করার জন্য **Interfaces Type Aliases** ব্যবহার করা হয়।
 এই দুটির কাজ একই রকম হলেও বেশ কিছু বিষয়ে একটি আরেকটির থেকে আলাদা।
 
@@ -13,8 +13,8 @@
 ১. **Declaration Merging** হয় না। একই নামে একাধিক টাইপ declare করলে, **compilation error** দেখাবে।
 ২. অবজেক্টের কাঠামো সংজ্ঞায়িত করা ছাড়াও আরো বহুমুখী কাজে ব্যবহৃত হয়।
 ৩. যেকোনো টাইপের জন্য অ্যালিয়াস তৈরি করতে পারে: প্রিমিটিভ, ইউনিয়ন।
-
-**Blog 5: Provide an example of using union and intersection types in TypeScript.**<br/>
+<br/><br/>
+**Blog 5: Provide an example of using union and intersection types in TypeScript.**<br/><br/>
 **Union Type:**
 ইউনিয়ন টাইপ একটি ভেরিয়েবলকে একাধিক ধরনের টাইপগুলির মধ্যে যেকোনো একটি হওয়ার অনুমতি দেয়। এটি OR লজিক ব্যবহার করে।
 
